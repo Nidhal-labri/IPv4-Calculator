@@ -2,7 +2,7 @@
 
 This project is a modern and intuitive IPv4 subnet calculator, designed to assist network professionals, students, and anyone needing to manipulate IP addresses and subnet masks. It offers a clean and responsive user interface, enabling quick and accurate calculations.
 
-<!-- SCREENSHOT_PLACEHOLDER -->
+![screencapture-file-C-Users-lenovo-Downloads-index-html-2025-07-03-14_18_26](https://github.com/user-attachments/assets/add8ccd1-27fb-4a73-b4d1-c4cb05b9ab34)
 
 ---
 
